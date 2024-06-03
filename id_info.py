@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Example ID
 id_number = "1990051512345678"
 
 # Function to extract information from the ID
